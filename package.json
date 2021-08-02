@@ -18,7 +18,7 @@
     "@types/clipboard": "^2.0.1",
     "@types/firefox-webext-browser": "^78.0.1",
     "@types/fs-extra": "^9.0.1",
-    "@types/node": "^14.0.5",
+    "@types/node": "^16.4.10",
     "@types/react": "^16.9.46",
     "@types/react-dom": "^16.9.8",
     "@types/styled-components": "^5.1.2",
