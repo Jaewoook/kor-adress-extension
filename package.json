@@ -36,7 +36,7 @@
   "dependencies": {
     "@ant-design/icons": "^4.1.0",
     "@sentry/react": "^5.27.3",
-    "antd": "^4.4.1",
+    "antd": "^4.16.10",
     "axios": "^0.19.2",
     "copy-to-clipboard": "^3.3.1",
     "react": "^16.13.1",
